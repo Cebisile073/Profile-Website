@@ -181,7 +181,7 @@ ul li a:hover {
 }
 
 .image img {
-  border-radius: 50%; /* Make the container circular */
+  border-radius: 50% !important; /* Make the container circular */
   overflow: hidden; /* Ensure the image remains within the circular border */
 }
 
